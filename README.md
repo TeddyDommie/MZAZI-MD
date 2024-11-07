@@ -1,6 +1,6 @@
 # MZAZI-MD
-@@ -50,7 +50,7 @@ YESSER MD</b>, simple powerful bot </p>
-FORK this repo YESSER-MD
+@@ -50,7 +50,7 @@ MZAZI-MD</b>, simple powerful bot </p>
+FORK this repo MZAZI-MD
 
 
 <a href="https://github.com/yassin994/YESSER-MD/fork"><img title="Tap Here Open Session Site" src="https://img.shields.io/badge/𝔽𝕆ℝ𝕂 𝕋ℍ𝕀𝕊 ℝ𝔼ℙ𝕆-h?color=black&style=for-the-badge&logo=msi" width="220" height="38.45"/></a></p>
