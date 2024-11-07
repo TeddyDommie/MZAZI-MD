@@ -1,4 +1,4 @@
-# MZAZI-MD
+u# MZAZI-MD
 @@ -50,40 +50,40 @@ MZAZI-MD</b>, simple powerful bot </p>
 FORK this repo MZAZI-MD
 
@@ -26,6 +26,6 @@ sᴛᴀʀ 🌟 ᴍʏ ʀᴇᴘᴏ ɪғ ʏᴏᴜ ʟɪᴋᴇ ᴛʜɪs ʙᴏᴛ ®�
 
 
 
-<a href='https://MZAZI-md-099be347ecc5.herokuapp.com/' target="_blank"><img alt='SESSION ID' src='https://img.shields.io/badge/Session_id-900000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=blue'/></a>
-<a href='https://MZAZI-md-099be347ecc5.herokuapp.com/' target="_blank"><img alt='SESSION ID' src='https://img.shields.io/badge/Sbottom pair-900000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=blue'/></a>
+<a href='https://MZAZI-md-099be347ecc5.herokuapp.com/' target="_blank"><img alt='SESSION ID' src='https://img.shields.io/badge/Session_id-900001?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=blue'/></a>
+<a href='https://MZAZI-md-099be347ecc5.herokuapp.com/' target="_blank"><img alt='SESSION ID' src='https://img.shields.io/badge/Sbottom pair-900001?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=blue'/></a>
 
