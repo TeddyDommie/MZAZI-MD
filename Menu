@@ -1,0 +1,45 @@
+// Import required libraries
+const { Client, LocalAuth } = require('whatsapp-web.js');
+const qrcode = require('qrcode-terminal');
+
+// Initialize the WhatsApp client
+const client = new Client({
+    authStrategy: new LocalAuth(),
+});
+
+client.on('qr', (qr) => {
+    // Generate QR code in the terminal
+    qrcode.generate(qr, { small: true });
+});
+
+client.on('ready', () => {
+    console.log('WhatsApp bot is ready!');
+});
+
+// Listen for incoming messages
+client.on('message', message => {
+    if (message.body.toLowerCase() === 'menu') {
+        // Send the menu with "🛑" emojis instead of numbers
+        const menu = `Welcome! Please select an option:
+🛑 Option 1: Check account balance
+🛑 Option 2: Transfer funds
+🛑 Option 3: Customer support
+🛑 Option 4: Settings`;
+
+        message.reply(menu);
+    }
+
+    // Additional commands
+    if (message.body === '🛑 Option 1') {
+        message.reply("You selected: Check account balance.");
+    } else if (message.body === '🛑 Option 2') {
+        message.reply("You selected: Transfer funds.");
+    } else if (message.body === '🛑 Option 3') {
+        message.reply("You selected: Customer support.");
+    } else if (message.body === '🛑 Option 4') {
+        message.reply("You selected: Settings.");
+    }
+});
+
+// Start the client
+client.initialize();
