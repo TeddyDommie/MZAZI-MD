@@ -1,4 +1,4 @@
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+<https://i.imgur.com/OMJDQP3.jpeg
 <h1 align="center"> 𝐌𝐙𝐀𝐙𝐈-𝐌𝐃 </h1>
 
  
