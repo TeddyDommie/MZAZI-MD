@@ -1,8 +1,8 @@
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-<h1 align="center"> 𝐀𝐋𝐏𝐇𝐀-𝐌𝐃 </h1>
+<h1 align="center"> 𝐌𝐙𝐀𝐙𝐈-𝐌𝐃 </h1>
 
  
-<h1 align="center"> Survival is winning frankline everything else is bullshit,fairy tales spun by people afraid to look life in the eye,do whatever it takes kid ,,survive 😏🙏
+<h1 align="center"> Aspire to inspire before you expire🙂😇
 </h1>
 
 
@@ -26,7 +26,7 @@
 
   
 
-<a href="https://github.com/keithkeizzah/ALPHA-MD1/fork"><img src="https://img.shields.io/badge/CLICK%20HERE-purple" alt="FORK ALPHA" width="150"></a>
+<a href="https://github.com/MZAZI-TEDDY/MZAZI-MD/fork"><img src="https://img.shields.io/badge/CLICK%20HERE-purple" alt="FORK ALPHA" width="150"></a>
 
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
