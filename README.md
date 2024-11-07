@@ -1,4 +1,4 @@
-<https://i.imgur.com/OMJDQP3.jpeg
+
 <h1 align="center"> 𝐌𝐙𝐀𝐙𝐈-𝐌𝐃 </h1>
 
  
@@ -7,7 +7,7 @@
 
 
 
-  <a href="https://ibb.co/N6NMDtn"><img src="https://telegra.ph/file/967c663a5978c545f78d6.jpg" alt="01" border="0" /></a>                     
+  <a href="https://ibb.co/N6NMDtn"><img src="https://i.imgur.com/OMJDQP3.jpeg" alt="01" border="0" /></a>                     
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
  
 
