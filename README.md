@@ -1,5 +1,5 @@
 # MZAZI-MD
-@@ -50,7 +50,7 @@ MZAZI-MD</b>, simple powerful bot </p>
+@@ -50,40 +50,40 @@ MZAZI-MD</b>, simple powerful bot </p>
 FORK this repo MZAZI-MD
 
 
