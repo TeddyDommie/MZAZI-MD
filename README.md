@@ -1,53 +1,133 @@
+<h1 align="center">𝗣𝗔𝗧𝗥𝗢𝗡-𝗠𝗗 𝗕𝗢𝗧<br></h1>
+<p align="center">
+<img src="https://i.imgur.com/XnKn6H3.jpeg" height="300" />
+</p>
 
-<h1 align="center"> 𝐌𝐙𝐀𝐙𝐈-𝐌𝐃 </h1>
+<p align="center">
+PATRON Multi Device is a automated whatsapp bot created by <a href="https://github.com/Itzpatron" target="_blank">Patron</a> using <a href="https://github.com/adiwajshing/Baileys" target="_blank">Baileys</a> and <a href="https://github.com/nodejs" target="_blank">Nodejs And cheems v8</a>. Dont forget to give a star bro.
+</p>
 
- 
-<h1 align="center"> Aspire to inspire before you expire🙂😇
-</h1>
+<p align="center">
+<a href="https://youtu.be/ygIOzvZS0z0?si=HBG2WzpWO-2cBBkJ"><img title="Size" src="https://img.shields.io/badge/Tutorial-Video-green"></a>
+</p>
 
+------
 
-
-  <a href="https://ibb.co/N6NMDtn"><img src="https://i.imgur.com/OMJDQP3.jpeg" alt="01" border="0" /></a>                     
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
- 
-
-<details>
-<summary>𝐕𝐈𝐄𝐖 𝐋𝐀𝐓𝐄𝐒𝐓 𝐁𝐎𝐓 𝐔𝐏𝐃𝐀𝐓𝐄𝐒 𝐇𝐄𝐑𝐄👇</summary>
-  
-- 𝐀𝐥𝐥 𝐝𝐨𝐰𝐧𝐥𝐨𝐚𝐝 𝐞𝐫𝐫𝐨𝐫𝐬 𝐟𝐢𝐱𝐞𝐝
-- 𝐀𝐧𝐭𝐢𝐜𝐚𝐥𝐥 𝐚𝐝𝐝𝐞𝐝
--𝐀𝐧𝐭𝐢𝐝𝐞𝐥𝐞𝐭𝐞 𝐚𝐝𝐝𝐞𝐝
--𝐀𝐧𝐝 𝐦𝐚𝐧𝐲 𝐦𝐨𝐫𝐞 𝐣𝐮𝐬𝐭 𝐝𝐞𝐩𝐥𝐨𝐲 𝐭𝐡𝐞 𝐛𝐨𝐭 𝐧𝐨𝐰
-
-</details>
-
-
-**👇FORK REPO**
+WANT TO USE BOT HOSTING? DOWNLOAD THIS
 
   
-
-<a href="https://github.com/MZAZI-TEDDY/MZAZI-MD/fork"><img src="https://img.shields.io/badge/CLICK%20HERE-purple" alt="FORK ALPHA" width="150"></a>
-
-
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
- <h1 align="center">  𝐆𝐄𝐓 𝐘𝐎𝐔𝐑 𝐒𝐄𝐒𝐒𝐈𝐎𝐍 </h1>
-  <a href="https://MZAZI-sessions-pi5z.onrender.com"><img src="https://img.shields.io/badge/Pair%20session%20code-white" alt="𝐏𝐚𝐢𝐫 𝐬𝐞𝐬𝐬𝐢𝐨𝐧 𝐜𝐨𝐝𝐞" width="300"></a>
+<a href='https://devuploads.com/rfpmqslkdp2i' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Bot Hosting-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
 
 
+# ```Bot Info```
+<p align="center">
+<a href="https://github.com/Itzpatron/followers"><img title="Followers" src="https://img.shields.io/github/followers/Itzpatron?color=red&style=flat-square"></a>
+<a href="https://github.com/Itzpatron/PATRON-MD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Itzpatron/PATRON-MD?color=blue&style=flat-square"></a>
+<a href="https://github.com/Itzpatron/PATRON-MD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Itzpatron/PATRON-MD?color=red&style=flat-square"></a>
+<a href="https://github.com/Itzpatron/PATRON-MD/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Itzpatron/PATRON-MD?label=Watchers&color=blue&style=flat-square"></a>
+<a href="https://github.com/Itzpatron/PATRON-MD"><img title="Open Source" src="https://img.shields.io/badge/Author-Patron%20Bot%20Inc.-red?v=103"></a>
+<a href="https://github.com/Itzpatron/PATRON-MD/"><img title="Size" src="https://img.shields.io/github/repo-size/Itzpatron/PATRON-MD?style=flat-square&color=green"></a>
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FItzpatron%2FPATRON-MD&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%2300FF6D&title=hits&edge_flat=false"/></a>
+<a href="https://github.com/Itzpatron/PATRON-MD/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
+</p>
+<p align='center'>
+    </p>
+<p align="center"><img src="https://profile-counter.glitch.me/{PATRON-MD}/count.svg" alt="itzpatron :: Visitor's Count" /></p>
 
-###  𝐃𝐄𝐏𝐋𝐎𝐘 𝐎𝐍 𝐇𝐄𝐑𝐎𝐊𝐔:
+-------
+
+## ```Connect With Me```
+<p align="center">
+<a href="https://www.youtube.com/@Itzpatron1"><img src="https://img.shields.io/badge/YouTube-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://www.youtube.com/@Itzpatron1" /><br>
+<a href="https://whatsapp.com/channel/0029Val0s0rIt5rsIDPCoD2q"><img src="https://img.shields.io/badge/WhatsApp Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&link=https://whatsapp.com/channel/0029Val0s0rIt5rsIDPCoD2q" /><br>
+<a href="https://t.me/patrontechhub"><img src="https://img.shields.io/badge/Telegram-00FFFF?style=for-the-badge&logo=telegram&logoColor=white" />
+<a href="https://chat.whatsapp.com/C6pWKvDfFRTAXScxTGFqvP"><img src="https://img.shields.io/badge/Support Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="https://www.instagram.com/justt.patron?igsh=MzNlNGNkZWQ4Mg=="><img src="https://img.shields.io/badge/Instagram-A020F0?style=for-the-badge&logo=instagram&logoColor=white" />
+</p>
 
 
- ***[![Tap to deploy on heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https://github.com/keithkeizzah/ALPHA-MD1&template=https://github.com/MZAZI-TEDDY/MZAZI/MD.git)***
+## ```My Channel```
+
+- [`Whatsapp Channel`](https://whatsapp.com/channel/0029Val0s0rIt5rsIDPCoD2q)
+- [`Support GC`](https://chat.whatsapp.com/C6pWKvDfFRTAXScxTGFqvP)
+- [`Telegram Channel`](https://t.me/patrontechhub)
 
 
-### 𝗧𝗛𝗔𝗡𝗞𝗦 𝗧𝗢 𝗠𝗬 𝗟𝗢𝗩𝗘𝗟𝗬 𝗙𝗔𝗡𝗦
-[![Stargazers repo roster for @MZAZI-TEDDY/MZAZI-MD(http://reporoster.com/stars/dark/MZAZI-TEDDY/MZAZI-MD)](https://github.com/MZAZI-TEDDY/MZAZI-MD/stargazers)
-     
-[![Forkers repo roster for @Keithkeizzah/ALPHA-MD1](http://reporoster.com/forks/dark/MZAZI-TEDDY/MZAZI-MD)](https://github.com/MZAZI-TEDDY/MZAZI-MD/network/members)
+# Setup For Deployment 👇
 
-Enjoy the diverse features of 𝐌𝐙𝐀𝐙𝐈-𝐌𝐃  to enhance your Whatsapp more enjoyable
+- FORK THE REPOSITORY [Here](https://github.com/Itzpatron/PATRON-MD/fork)
 
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+## `Pair number For Session`
+[![PATRON-MD](https://repl.it/badge/github/quiec/whatsasena)](https://replit.com/@Itzpatron/Patron-Pairing-1)
+
+## `2nd server for session`
+<a href='https://ednut-pair-code.onrender.com/' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/PAIR BOT-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
+
+## ` BUILDPACKS`
+
+```
+bash heroku/nodejs
+https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest
+https://github.com/clhuang/heroku-buildpack-webp-binaries.git
+```
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Itzpatron/PATRON-MD/)
+
+### TUTORIAL VIA PANEL
+
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/ygIOzvZS0z0?si=79yGQpgdIqa4Yt0U)
+
+### ☁️ DEPLOY ON RENDER
+[![Deploy to Render](https://binbashbanana.github.io/deploy-buttons/buttons/remade/render.svg)](https://dashboard.render.com/blueprint/new?repo=https%3A%2F%2Fgithub.com%2FItzpatron-Li%2FPATRON-MD)
+
+------------------
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@itzpatron1)
+
+# Install Manually 👇
+## `Requirements`
+* [Node.js](https://nodejs.org/en/)
+* [Git](https://git-scm.com/downloads)
+* [FFmpeg](https://github.com/BtbN/FFmpeg-Builds/releases/download/autobuild-2020-12-08-13-03/ffmpeg-n4.3.1-26-gca55240b8c-win64-gpl-4.3.zip)
+* [Libwebp](https://developers.google.com/speed/webp/download)
+* Any text editor
+## `Clone Repo & Installation dependencies`
+```bash
+git clone https://github.com/Itzpatron/PATRON-MD.git
+cd PATRON-MD
+
+npm start
+```
+## `For Termux/Ssh/Ubuntu`
+```bash
+apt update
+apt upgrade
+pkg update && pkg upgrade
+pkg install bash
+pkg install libwebp
+pkg install git -y
+pkg install nodejs -y 
+pkg install ffmpeg -y 
+pkg install wget
+pkg install imagemagick -y
+git clone https://github.com/Itzpatron/PATRON-MD
+cd PATRON-MD
+termux-setup-storage
+yarn install
+npm start
+```
+## `For VPS`
+```bash
+apt install nodejs 
+apt install git 
+apt apt install ffmpeg 
+apt apt install libwebp 
+apt apt install imagrmagick
+apt install bash
+git clone https://github.com/Itzpatron/PATRON-MD
+cd PATRON-MD
+npm start
+```
+## `For 24/7 Activation (Termux)`
+```bash
+npm i -g pm2 && pm2 start index.js && pm2 save && pm2 logs
+```
